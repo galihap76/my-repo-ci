@@ -1,1 +1,1 @@
-My repo codeigniter to save my projects.
+Sekedar projek gabut dan latihan aja biar gak lupa.
